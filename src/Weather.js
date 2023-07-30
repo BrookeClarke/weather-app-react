@@ -1,5 +1,4 @@
 import React from "react";
-import axios from 'axios';
 import "./App.css";
 
 export default function Weather() {
@@ -33,7 +32,7 @@ export default function Weather() {
         <div classNames="Week" id="forecast"></div>
       </div>
                 <h6>
-                    <a href="https://github.com/BrookeClarke/weather-app-react" target="_blank"> Open source code </a> by Brooke Clarke</h6>
+                    <a href="https://github.com/BrookeClarke/weather-app-react" target="_blank" rel="noreferrer"> Open source code </a> by Brooke Clarke</h6>
                 <p id="temperature-description"></p>
             </div>
         </div>
