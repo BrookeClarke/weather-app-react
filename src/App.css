@@ -58,6 +58,7 @@ div#second {
     rgb(255, 233, 171) 100.2%
   );
   font-family: Georgia, 'Times New Roman', Times, serif;
+  min-height: 100vh;
 }
 li {
   list-style: none;
